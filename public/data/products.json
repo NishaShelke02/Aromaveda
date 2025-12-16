@@ -86,7 +86,7 @@
         "description":"Spicy and flavorful red chilli powder, ideal for adding heat to your dishes.",
         "items":[
           {
-            "name": "Kashmiri Red Chilli",
+            "name": "Kashmiri",
             "slug": "kashmiri-red-chilli",
             "image": "/images/products/kashmiri.png",
             "gallery": [
@@ -105,7 +105,7 @@
             }
           },
           {
-            "name": "Byadgi Red Chilli",
+            "name": "Byadgi",
             "slug": "byadgi-red-chilli",
             "image": "/images/products/byadgi.png",
             "gallery": [
@@ -125,7 +125,7 @@
             
           },
           {
-            "name": "Guntur Sannam S4 Red Chilli",
+            "name": "Guntur Sannam S4",
             "slug": "guntur-sannam-red-chilli",
             "image": "/images/products/s4.png",
             "gallery": [
@@ -144,7 +144,7 @@
             }
           },
           {
-            "name": "S17 Teja Red Chilli",
+            "name": "S17 Teja",
             "slug": "s17-teja-red-chilli",
             "image": "/images/products/s17.png",
             "gallery": [
