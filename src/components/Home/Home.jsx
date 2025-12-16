@@ -109,12 +109,17 @@ const Home = () => {
           <h2 className="main-title">AROMAVEDA IMPEX</h2>
           <hr className="section-underline" />
           <p className="welcome-desc about-text">
-            Aromaveda Impex is a leading exporter and supplier of premium quality Indian spices, dehydrated vegetables, fruits, and spray dried powders. With a commitment to excellence and customer satisfaction,
-             we source our products from trusted farmers and process them using state-of-the-art technology to ensure purity, flavor, and nutritional value. 
-             Our diverse product range caters 
-            to various industries including food processing, hospitality, and retail, making us a preferred choice for clients worldwide.  
+  Welcome to <strong>Aromaveda Impex</strong> – your trusted partner for authentic
+  Indian spices and dehydrated food products. We source and supply premium
+  quality spices, dehydrated vegetables, and spray-dried fruit powders from
+  multiple regions across India.
+  <br /><br />
+  By working with a strong network of reliable farmers and processors, we ensure
+  consistent quality, wide variety, and competitive pricing under one roof.
+  With strict quality checks and export-ready packaging, we make global sourcing
+  simple, reliable, and rewarding.
+</p>
 
-          </p>
           <Link to="/about" className="read-more-btn">
   Read More
 </Link>
