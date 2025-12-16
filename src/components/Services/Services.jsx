@@ -33,12 +33,7 @@ const Services = () => {
     <div className="services-container">
 
       {/* ===== TOP LOGO SECTION ===== */}
-      <div className="services-logo">
-        <img
-          src="/images/logo.png"   // <-- Aromaveda logo path
-          alt="Aromaveda Impex Logo"
-        />
-      </div>
+      
 
       {/* ===== SERVICES ROW ===== */}
       <div className="services-row">
