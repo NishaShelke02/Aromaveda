@@ -1,0 +1,406 @@
+[
+  {
+    "category":"Indian-spices",
+    "slug": "indian-spices",
+    "categoryImage": "/images/products/spicesmain.png",
+    "categoryDesc": "Premium quality spices from Indian farms.",
+    "products":[
+      {
+        "name":"Turmeric",
+        "slug":"turmeric",
+        "image":"/images/products/turmericmain1.png",
+        "description":"Pure and finely ground turmeric powder, perfect for cooking and health benefits.",
+        "items":[
+          {
+            "name":"Bulb Turmeric",
+            "slug":"bulb-turmeric",
+            "image":"/images/products/bulb1.png",
+            "gallery":[
+              "/images/products/bulb.png",
+              "/images/products/bulb1.png",
+              "/images/products/bulb2.png"
+            ],
+            "shortDesc": "High-quality bulb turmeric powder.",
+            "description": "Aromaveda Bulb Turmeric is sourced from certified farms and processed with international quality standards. Known for its deep natural color, strong aroma, and elevated curcumin levels, it is widely preferred for food manufacturing, spice blending, and nutraceutical applications. Each batch is thoroughly cleaned, graded, and packed to ensure consistency, purity, and full export compliance for global markets."
+            
+
+          },
+          {
+            "name":"Finger Turmeric",
+            "slug":"finger-turmeric",
+            "image":"/images/products/turmeric.png",
+            "gallery":[
+              "/images/products/turmeric1.png",
+              "/images/products/turmeric2.png",
+              "/images/products/turmeric3.png"
+            ],
+            "shortDesc": "Premium finger turmeric powder.",
+            "description": "Aromaveda Finger Turmeric is sourced from certified farms and processed with international quality standards. Known for its deep natural color, strong aroma, and elevated curcumin levels, it is widely preferred for food manufacturing, spice blending, and nutraceutical applications. Each batch is thoroughly cleaned, graded, and packed to ensure consistency, purity, and full export compliance for global markets."
+            
+          },
+          {
+            "name":"Japan Grade Turmeric",
+            "slug":"japan-grade-turmeric",
+            "image":"/images/products/japan.png",
+            "gallery":[
+              "/images/products/japan1.png",
+              "/images/products/japan-2.png",
+              "/images/products/japan-3.png"
+            ],
+            "shortDesc": "Top-tier Japan grade turmeric powder.",
+            "description": "Premium quality turmeric powder that meets Japan's stringent standards. Known for its vibrant color and high curcumin content, it is ideal for culinary and health applications."
+          },
+          {
+            "name":"European Grade Turmeric",
+            "slug":"european-grade-turmeric",
+            "image":"/images/products/europe.png",
+            "gallery":[
+              "/images/products/europe1.png",
+              "/images/products/europe2.png",
+              "/images/products/europe.png"
+            ],
+            "shortDesc": "High-standard European grade turmeric powder.",
+            "description": "Aromaveda European Grade Turmeric is sourced from certified farms and processed with international quality standards. Known for its deep natural color, strong aroma, and elevated curcumin levels, it is widely preferred for food manufacturing, spice blending, and nutraceutical applications. Each batch is thoroughly cleaned, graded, and packed to ensure consistency, purity, and full export compliance for global markets."
+          },
+          {
+            "name": "Lakadong Turmeric",
+            "slug": "lakadong-turmeric",
+            "image": "/images/products/laka.png",
+            "gallery": [
+              "/images/products/laka1.png",
+              "/images/products/laka2.png",
+              "/images/products/laka3.png"
+            ],
+            "shortDesc": "Premium Lakadong turmeric powder from Meghalaya.",
+            "description": "Lakadong turmeric is renowned for its high curcumin content and vibrant color. Sourced from the hills of Meghalaya, this turmeric powder is perfect for culinary and medicinal uses. It is carefully processed to retain its natural properties and ensure top quality. "
+          }
+        
+        ]
+
+        
+      },
+      {
+        "name":"Red Chilli",
+        "slug":"red-chilli",
+        "image":"/images/products/spices4.png",
+        "description":"Spicy and flavorful red chilli powder, ideal for adding heat to your dishes.",
+        "items":[
+          {
+            "name": "Kashmiri Red Chilli",
+            "slug": "kashmiri-red-chilli",
+            "image": "/images/products/kashmiri.png",
+            "gallery": [
+              "/images/products/kashmiri1.png",
+              "/images/products/kashmiri2.png",
+              "/images/products/kashmiri3.png"
+            ],
+            "description": "Mild heat with vibrant red color, perfect for enhancing dishes without overpowering them. ",
+            "specifications": {
+            "appearance": "Deep red to bright crimson, long and fleshy",
+            "pungency": "1,000 – 2,000 SHU",
+            "astaColor": "Approx. 54 ASTA",
+            "length": "5–10 cm (10–12 cm in some varieties)",
+            "capsaicin": "Approx. 0.325%",
+            "flavor": "Mild, slightly sweet and smoky"
+            }
+          },
+          {
+            "name": "Byadgi Red Chilli",
+            "slug": "byadgi-red-chilli",
+            "image": "/images/products/byadgi.png",
+            "gallery": [
+              "/images/products/byadgi1.png",
+              "/images/products/byadgi2.png",
+              "/images/products/byadgi3.png"
+            ],
+            "description": "Moderate heat with deep red color, ideal for a variety of culinary uses.",
+            "specifications": {
+              "appearance": "Bright red, wrinkled and thick",
+              "pungency": "15,000 – 30,000 SHU",
+              "astaColor": "Approx. 72 ASTA",
+              "length": "7–10 cm",
+              "capsaicin": "Approx. 0.75%",
+              "flavor": "Moderate heat with earthy undertones"
+            }
+            
+          },
+          {
+            "name": "Guntur Sannam S4 Red Chilli",
+            "slug": "guntur-sannam-red-chilli",
+            "image": "/images/products/s4.png",
+            "gallery": [
+              "/images/products/s4.png",
+              "/images/products/s4sannam.png"
+             
+            ],
+            "description": "Hot and pungent, widely used in Indian cuisine for its strong flavor.",
+            "specifications": {
+              "appearance": "Bright red, slender and pointed",
+              "pungency": "35,000 – 50,000 SHU",
+              "astaColor": "Approx. 40-50 ASTA",
+              "length": "8–12 cm",
+              "capsaicin": "Approx. 1.0%",
+              "flavor": "High heat with a sharp, pungent taste"
+            }
+          },
+          {
+            "name": "S17 Teja Red Chilli",
+            "slug": "s17-teja-red-chilli",
+            "image": "/images/products/s17.png",
+            "gallery": [
+              "/images/products/s17teja.png",
+              "/images/products/s17.png"
+      
+            ],
+            "description": "Very hot and pungent, ideal for those who prefer intense heat in their dishes.",
+            "specifications": {
+              "appearance": "Deep red, long and thin",
+              "pungency": "70,000 – 110,000 SHU",
+              "astaColor": "50-70 ASTA",
+              "length": "6-9 cm(without stem)",
+              "capsaicin": "Approx. 1.2%",
+              "flavor": "Very high heat with a sharp, biting taste"
+            }
+             
+          }
+        ]
+      },
+      {
+        "name":"Coriander",
+        "slug":"coriander",
+        "image":"/images/products/coriander1.png",
+        "description":"Aromatic and fresh coriander powder, essential for various cuisines.",
+        "items":[
+          {
+            "name":"Coriander Powder",
+            "slug":"coriander-powder",
+            "image":"/images/products/corianderp2.png",
+            "gallery":[
+              "/images/products/corianderp1.png",
+              "/images/products/corianderp2.png",
+              "/images/products/corianderp.png"
+            ],
+            "shortDesc": "Freshly ground coriander powder.",
+            "description": "Aromatic and fresh coriander powder, essential for various cuisines. It adds a warm, citrusy flavor to dishes and is rich in antioxidants. "
+            
+          },
+          {
+            "name":"Coriander Seeds",
+            "slug":"coriander-seeds",
+            "image":"/images/products/coriander.png",
+            "gallery":[
+              "/images/products/coriander1.png",
+              "/images/products/coriander2.png",
+              "/images/products/coriander.png"
+            ],
+            "shortDesc": "Whole coriander seeds for grinding or cooking.",
+            "description": "Aromatic and fresh coriander seeds, essential for various cuisines. They add a warm, citrusy flavor to dishes and are rich in antioxidants."
+          }
+        ]
+      },
+      {
+        "name":"Cumin",
+        "slug":"cumin",
+        "image":"/images/products/cumin.png",
+        "description":"Fragrant cumin seeds, perfect for enhancing the flavor of your dishes.",
+        "items":[
+          {
+            "name":"Cumin Seeds",
+            "slug":"cumin-seeds",
+            "image":"/images/products/cumin.png",
+            "gallery":[
+              "/images/products/cumin1.png",
+              "/images/products/cumin2.png",
+              "/images/products/cumin.png"
+            ],
+            "shortDesc": "Aromatic cumin seeds.",
+            "description": "Fragrant cumin seeds, perfect for enhancing the flavor of your dishes. They provide a warm, earthy taste and are known for their digestive benefits."
+            
+          },
+          {
+            "name":"Cumin Powder",
+            "slug":"cumin-powder",
+            "image":"/images/products/cuminp.png",
+            "gallery":[
+              "/images/products/cuminp.png",
+              "/images/products/cuminp1.png",
+              "/images/products/cumin2.png"
+            ],
+            "shortDesc": "Finely ground cumin powder.",
+            "description": "Fragrant cumin powder, perfect for enhancing the flavor of your dishes. It provides a warm, earthy taste and is known for its digestive benefits."
+          }
+        ]
+      },
+      {
+        "name":"Cardamom",
+        "slug":"cardamom",
+        "image":"/images/products/cardamon.png",
+        "description":"Premium cardamom pods, ideal for both sweet and savory dishes.",
+        "items":[
+          {
+            "name":"Green Cardamom Pods",
+            "slug":"green-cardamom-pods",
+            "image":"/images/products/cardamon.png",
+            "gallery":[
+              "/images/products/cardamom.png",
+              "/images/products/cardamon1.png",
+              "/images/products/cardamon2.png"
+            ],
+            "shortDesc": "Aromatic green cardamom pods.",
+            "description": "Premium green cardamom pods, ideal for both sweet and savory dishes. They offer a unique, fragrant flavor and are often used in baking and cooking."
+            
+          },
+          {
+            "name":"Cardamom Powder",
+            "slug":"cardamom-powder",
+            "image":"/images/products/cardamomp.png",
+            "gallery":[
+              "/images/products/cardamomp1.png",
+              "/images/products/cardamomp2.png",
+              "/images/products/cardamomp.png"
+            ],
+            "shortDesc": "Finely ground cardamom powder.",
+            "description": "Premium cardamom powder, ideal for both sweet and savory dishes. It offers a unique, fragrant flavor and is often used in baking and cooking."
+          }
+        ]
+
+      }
+    ]
+  },
+  {
+    "category":"Dehydrated Vegetables",
+    "slug":"dehydrated-vegetables",
+    "categoryImage": "/images/dehydrated/veg.png",
+    "categoryDesc": "High-quality dehydrated vegetables for culinary use.",
+    "products":[
+      {
+        "name":"Moringa",
+        "slug":"moringa",
+        "image":"/images/products/moringa.png",
+        "description":"Nutrient-rich dehydrated moringa leaves, perfect for smoothies and teas.",
+        "items":[
+          
+          {
+            "name":"Dehydrated Moringa Powder",
+            "slug":"dehydrated-moringa-powder",
+            "image":"/images/products/moringa.png",
+            "gallery":[
+              "/images/products/moringa1.png",
+              "/images/products/moringa-powder2.png",
+              "/images/products/moringa-powder3.png"
+            ],
+            "shortDesc": "Finely ground dehydrated moringa powder.",
+            "description": "Nutrient-rich dehydrated moringa powder, perfect for smoothies and teas. It is packed with vitamins, minerals, and antioxidants, making it a great addition to a healthy diet."
+          }
+        ]
+        
+
+      }
+      ,{
+        "name":"Onion ",
+        "slug":"onion",
+        "image":"/images/dehydrated/onion.png",
+        "description":"Crispy and flavorful dehydrated onion flakes, perfect for soups and salads.",
+        "items":[
+          {
+            "name":"Dehydrated Onion Flakes and Powder",
+            "slug":"dehydrated-onion-flakes-and-powder",
+            "image":"/images/dehydrated/onion.png",
+            "gallery":[
+              "/images/products/onions.png",
+              "/images/dehydrated/onionf.png",
+              "/images/dehydrated/onionp1.png",
+              "/images/dehydrated/onionp.png"
+            ],
+            "shortDesc": "Crispy dehydrated onion flakes.",
+            "description": "Crispy and flavorful dehydrated onion flakes, perfect for soups and salads. They retain the natural taste of fresh onions and add a delightful crunch to dishes."
+            
+          },
+          {
+            "name":"Dehydrated White Onion Flakes and Powder",
+            "slug":"dehydrated-white-onion-flakes-and-powder",
+            "image":"/images/dehydrated/white.png",
+            "gallery":[
+              "/images/dehydrated/white1.png",
+              "/images/dehydrated/white2.png",
+              "/images/dehydrated/white3.png"
+            ],
+            "shortDesc": "Finely ground dehydrated onion powder.",
+            "description": " Crispy and flavorful dehydrated onion powder, perfect for soups and salads. It retains the natural taste of fresh onions and adds a delightful flavor to dishes. "
+          }
+        ]
+      },
+      {
+        "name":"Garlic",
+        "slug":"garlic",
+        "image":"/images/dehydrated/garlic.png",
+        "description":"Aromatic and savory dehydrated garlic flakes, ideal for seasoning various dishes.",
+        "items":[
+          {
+            "name":"Dehydrated Garlic Flakes",
+            "slug":"dehydrated-garlic-flakes",
+            "image":"/images/dehydrated/garlic.png",
+            "gallery":[
+              "/images/dehydrated/garlic1.png",
+              "/images/dehydrated/garlic2.png",
+              "/images/dehydrated/garlic.png"
+            ],
+            "shortDesc": "Aromatic dehydrated garlic flakes.",
+            "description": "Aromatic and savory dehydrated garlic flakes, ideal for seasoning various dishes. They provide a concentrated garlic flavor and are perfect for soups, sauces, and marinades."
+            
+          },
+          {
+            "name":"Dehydrated Garlic Powder",
+            "slug":"dehydrated-garlic-powder",
+            "image":"/images/dehydrated/garlicp.png",
+            "gallery":[
+              "/images/dehydrated/garlicp.png",
+              "/images/dehydrated/garlicp1.png",
+              "/images/dehydrated/garlicp2.png"
+            ],
+            "shortDesc": "Finely ground dehydrated garlic powder.",
+            "description": "Aromatic and savory dehydrated garlic powder, ideal for seasoning various dishes. It provides a concentrated garlic flavor and is perfect for soups, sauces, and marinades."
+          }
+        ]
+      }
+
+    ]
+  },
+  {
+    "category": "Spray Dried Fruits Products",
+    "slug":"spray-dried-fruits-products",
+    "categoryImage": "/images/products/sp.png",
+    "categoryDesc": "Delicious spray dried fruit powders for smoothies and baking.",
+    "products": [
+      {
+        "name":"Amla Powder",
+        "slug":"amla-powder",
+        "image":"/images/products/amla.png",
+        "gallery":[
+          "/images/products/amla.png",
+          "/images/products/amla1.png",
+          "/images/products/amla2.png"
+        ],
+        "shortDesc": "Nutritious spray dried amla powder.",
+        "description":"Nutritious spray dried amla powder, rich in vitamin C and antioxidants for health benefits."
+        
+        
+        
+      },
+      {
+        "name":"Apple Powder",
+        "slug":"apple-powder",
+
+        "image":"/images/products/apple.png",
+        "gallery":[
+          "/images/products/apple1.png",
+          "/images/products/apple2.png",
+          "/images/products/apple3.png"
+        ],
+        "shortDesc": "Delicious spray dried apple powder.",
+        "description":"Delicious spray dried apple powder, perfect for smoothies and baking with a natural fruity flavor."
+      }
+    ]
+
+  }
+]

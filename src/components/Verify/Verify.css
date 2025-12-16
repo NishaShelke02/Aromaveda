@@ -1,0 +1,175 @@
+/* Verify.css */
+
+/* Global */
+.certification-container {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #2c2c2c;
+  background-color: #fffaf5;
+}
+
+/* Containers */
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Hero section */
+.certification-hero {
+  background: linear-gradient(135deg, #ff9800, #ffb74d);
+  color: #ffffff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.certification-hero h1 {
+  font-size: 2.4rem;
+  margin-bottom: 16px;
+  letter-spacing: 0.5px;
+}
+
+.certification-hero p {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Section: Recognized & Compliant */
+.certifications-list {
+  padding: 50px 0 40px;
+  background-color: #fffaf5;
+}
+
+.certifications-list h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 32px;
+  color: #e65100;
+}
+
+/* Grid */
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.cert-item {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 20px 18px 18px;
+  box-shadow: 0 4px 12px rgba(255, 152, 0, 0.12);
+  border: 1px solid rgba(255, 152, 0, 0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.cert-item h3 {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+  color: #e65100;
+}
+
+.cert-item p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #555555;
+  margin-bottom: 12px;
+}
+
+.cert-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(255, 152, 0, 0.25);
+  border-color: #ff9800;
+}
+
+/* Logos */
+.cert-logo {
+  display: block;
+  max-width: 120px;
+  max-height: 80px;
+  object-fit: contain;
+  margin-top: 8px;
+}
+
+/* CTA section */
+.cert-cta {
+  background: #ffe0b2;
+  padding: 40px 0 50px;
+  text-align: center;
+  border-top: 1px solid #ffb74d;
+  border-bottom: 1px solid #ffb74d;
+}
+
+.cert-cta h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  color: #e65100;
+}
+
+.cert-cta p {
+  max-width: 620px;
+  margin: 0 auto 20px;
+  font-size: 1rem;
+  color: #5a3a1a;
+}
+
+/* Button */
+.cta-button {
+  display: inline-block;
+  padding: 10px 26px;
+  border-radius: 999px;
+  border: none;
+  background: linear-gradient(135deg, #ff9800, #f57c00);
+  color: #ffffff;
+  font-size: 0.98rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(245, 124, 0, 0.3);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.cta-button:hover {
+  background: linear-gradient(135deg, #f57c00, #e65100);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(230, 81, 0, 0.4);
+}
+
+.cta-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(230, 81, 0, 0.3);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .cert-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .certification-hero h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .cert-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .certification-hero {
+    padding: 40px 0;
+  }
+
+  .certification-hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .certifications-list {
+    padding: 35px 0 30px;
+  }
+
+  .cert-item {
+    padding: 18px 16px;
+  }
+}

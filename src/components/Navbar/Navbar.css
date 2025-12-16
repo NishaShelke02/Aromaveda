@@ -1,0 +1,262 @@
+/* ---------------------------------------------------------
+   GLOBAL RESET
+--------------------------------------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ---------------------------------------------------------
+   TOP BAR
+--------------------------------------------------------- */
+.top-bar {
+  width: 100%;
+  height: 70px;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-bottom: 1px solid #eee;
+  z-index: 1000;
+  pointer-events: auto;
+}
+
+/* ----- LOGO ----- */
+.logo-section {
+  text-align: left;
+  flex: 1;
+}
+
+.logo-img {
+  width: 160px;
+  height: auto;
+}
+
+/* ----- HAMBURGER (Mobile Only) ----- */
+.hamburger {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  cursor: pointer;
+  display: none;
+  z-index: 1001;
+  pointer-events: auto;
+}
+
+/* ----- CONTACT ITEMS (Desktop Only) ----- */
+.top-items-desktop {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  right: 140px;
+}
+
+.top-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #333;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.top-icon {
+  font-size: 20px;
+  color: #d18d15;
+}
+
+.top-text p {
+  font-size: 12px;
+  color: #777;
+}
+
+.divider {
+  width: 1px;
+  height: 30px;
+  background: #ddd;
+}
+
+/* ---------------------------------------------------------
+   MAIN NAVBAR MENU
+--------------------------------------------------------- */
+.navbar {
+  width: 100%;
+  background: #000;
+  padding: 12px 0;
+  position: fixed;
+  top: 70px;
+  left: 0;
+  z-index: 1001; /* Increased to be above top-bar */
+  pointer-events: auto;
+}
+
+.navbar > ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  pointer-events: auto;
+}
+
+.navbar ul li a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  transition: 0.3s;
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.navbar ul li a:hover,
+.navbar ul li a.active {
+  color: #d18d15;
+}
+
+/* ----- DROPDOWN STYLING ----- */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-title {
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  
+  padding: 12px 16px;
+  
+
+}
+
+.dropdown-title:hover {
+  color: #d18d15;
+}
+
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 120%;
+  left: 0;
+  background-color: #000;
+  min-width: 220px;
+  list-style: none;
+  padding: 8px 0;
+  margin: 0;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  z-index: 99999;
+  flex-direction: column;
+   width: auto;
+   
+}
+
+.dropdown.active .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li {
+  display: block;
+  padding: 10px 16px;
+  white-space : nowrap;
+}
+
+.dropdown-menu li a {
+  color: #fff;
+  font-size: 13px;
+  transition: 0.3s;
+  display: block;
+}
+
+.dropdown-menu li a:hover {
+  color: #d18d15;
+}
+/* Desktop hover support */
+
+
+
+/* ---------------------------------------------------------
+   MOBILE RESPONSIVE STYLING
+--------------------------------------------------------- */
+@media (max-width: 900px) {
+  .top-items-desktop {
+    display: none;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .top-bar {
+    justify-content: center;
+  }
+
+  .navbar {
+    position: fixed;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    background: #000;
+    display: none;
+    padding: 20px 0;
+    z-index: 1001;
+    pointer-events: auto;
+  }
+
+  .navbar.open {
+    display: block;
+  }
+
+  .navbar ul {
+    flex-direction: column;
+    text-align: center;
+    gap: 18px;
+    pointer-events: auto;
+  }
+
+  .navbar ul li a {
+    font-size: 16px;
+    padding: 10px 0;
+    display: block;
+    cursor: pointer;
+    pointer-events: auto;
+  }
+
+  /* Mobile dropdown adjustments */
+  .dropdown-menu {
+    position: static;
+    display: none;
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+
+  .dropdown.active .dropdown-menu {
+    display: block;
+  }
+
+  .dropdown-menu li {
+    padding: 5px 0;
+  }
+
+  .dropdown-menu li a {
+    font-size: 14px;
+  }
+}
+
+/* Add padding to body to account for fixed navbar */
+body {
+  padding-top: 110px;
+}
