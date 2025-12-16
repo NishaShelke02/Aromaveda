@@ -109,13 +109,11 @@ const Home = () => {
           <h2 className="main-title">AROMAVEDA IMPEX</h2>
           <hr className="section-underline" />
           <p className="welcome-desc about-text">
-            Our Company is engaged in trading and marketing agricultural 
-            commodities such as spices (dry red chilli, turmeric, coriander, 
-            cumin seeds), sugar, rice, wheat, corn, sorghum, tea, and pulses. 
-            We import lentils, faba beans, black matpe, and pigeon peas from 
-            Canada, Australia, and Burma. We are B2B traders specialized in 
-            sugar, corn, and pulses, supplying bulk quantities to manufacturers 
-            and exporters while ensuring quality and standard packaging.
+            Aromaveda Impex is a leading exporter and supplier of premium quality Indian spices, dehydrated vegetables, fruits, and spray dried powders. With a commitment to excellence and customer satisfaction,
+             we source our products from trusted farmers and process them using state-of-the-art technology to ensure purity, flavor, and nutritional value. 
+             Our diverse product range caters 
+            to various industries including food processing, hospitality, and retail, making us a preferred choice for clients worldwide.  
+
           </p>
           <Link to="/about" className="read-more-btn">
   Read More
