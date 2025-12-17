@@ -57,10 +57,16 @@ const About = () => {
         Our sourcing model is built on strict quality control, lab-tested
         products, and a commitment to transparency, reliability, and timely
         delivery.
+        Every shipment is backed by COA, MSDS/SDS, phytosanitary documents, quality certifications, and packaging that meets international safety standards.
+      </p>
+
+      <p>
+        At Aromaveda Impex, we aim to deliver not just products — but trust, performance, and long-term partnerships. Whether you are a wholesaler, importer, food manufacturer, or brand,
+         we ensure that you receive authentic Indian ingredients, curated and supplied with utmost professionalism.
       </p>
 
       <p className="about-highlight">
-        Discover India’s natural richness, delivered with global excellence.
+        Discover India’s natural richness, delivered with global excellence — experience Aromaveda Impex.
       </p>
     </div>
 
@@ -98,7 +104,7 @@ const About = () => {
             <p>
               To make, distribute and sell the finest quality products and
               promote ethical business practices that respect the Earth and
-              environment.
+              environment. 
             </p>
 
             <p>

@@ -1,0 +1,127 @@
+.product-description {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  color: #2c1810;
+}
+
+.markdown-content {
+  margin-bottom: 2.5rem;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+  color: #c8102e;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.markdown-content h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid #a71c3d;
+  padding-bottom: 0.5rem;
+}
+
+.markdown-content p {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.markdown-content strong {
+  color: #8b1a2b;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.markdown-content li {
+  margin-bottom: 0.5rem;
+}
+
+.spec-section {
+  background: linear-gradient(135deg, #fff5f5 0%, #ffebee 100%);
+  border: 2px solid #a71c3d;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-top: 2rem;
+  box-shadow: 0 4px 15px rgba(200, 16, 46, 0.15);
+}
+
+.spec-section h3 {
+  color: #c8102e;
+  font-size: 1.5rem;
+  margin: 0 0 1.5rem 0;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.spec-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.spec-section li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  background: rgba(255, 255, 255, 0.8);
+  border-left: 4px solid #a71c3d;
+  border-radius: 0 8px 8px 0;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.spec-section li:hover {
+  background: rgba(255, 255, 255, 0.95);
+  transform: translateX(5px);
+  border-left-color: #c8102e;
+  box-shadow: 0 4px 12px rgba(200, 16, 46, 0.25);
+}
+
+.spec-section li span {
+  font-weight: 600;
+  color: #8b1a2b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.95rem;
+}
+
+.spec-section li::after {
+  content: '→';
+  color: #c8102e;
+  font-weight: bold;
+  margin-left: 1rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.spec-section li:hover::after {
+  opacity: 1;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .product-description {
+    padding: 1.5rem;
+  }
+  
+  .spec-section li {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .spec-section li::after {
+    display: none;
+  }
+}

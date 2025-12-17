@@ -8,9 +8,52 @@
       {
         "name":"Turmeric",
         "slug":"turmeric",
-        "image":"/images/products/turmericmain1.png",
+        "image":"/images/products/turmericmain.png",
         "description":"Pure and finely ground turmeric powder, perfect for cooking and health benefits.",
         "items":[
+          
+          {
+            "name":"Rajapuri-Sangli-Salem(Europe Quality/Good Grade)",
+            "slug":"rajapuri-sangli-turmeric",
+            "image":"/images/products/Rajapuri.png",
+            "gallery":[
+              "/images/products/Rajapuri.png",
+              "/images/products/Rajapuri1.png"
+              
+            ],
+            "shortDesc": "Premium Rajapuri-Sangli turmeric powder.",
+            "description": "\n**Rajapuri Turmeric**, also known as **Sangli Turmeric**, is one of the most widely traded and commercially important turmeric varieties from Maharashtra, India. Sourced primarily from the Sangli belt, this variety is known for its **bright orange-yellow colour**, **strong natural aroma**, and **excellent dry recovery**, making it highly suitable for bulk exports and spice processing industries.\n\nRajapuri Sangli turmeric is a preferred choice for international buyers due to its **consistent quality**, **uniform fingers**, and **competitive pricing**, supported by the well-established **Sangli APMC market infrastructure**.\n\n---\n\n### Specifications\n- **Botanical Name:** Curcuma longa L.\n- **HS Code:** 09103020\n- **Origin:** Sangli region, Maharashtra, India\n- **Variety Type:** Commercial / Export Grade Turmeric\n\n### Product Forms\n- Whole Turmeric Fingers\n- Single Polished\n- Double Polished\n- Turmeric Powder (as per mesh requirement)\n\n### Physical Characteristics\n- **Finger Appearance:** Long, bold fingers with uniform shape\n- **Colour:** Bright yellow to deep orange\n- **Aroma:** Strong, earthy, characteristic turmeric aroma\n\n### Quality Parameters\n- **Curcumin Content:** 2.0% – 3.5% (varies by crop & grade; lab tested on request)\n- **Moisture Content:** Max 10% – 12%\n- **Foreign Matter:** < 1%\n- **Broken Fingers:** As per buyer specification\n- **Admixture:** Nil\n\n### Shelf Life\n- **12 – 24 months** under recommended storage conditions"
+
+
+
+          },
+          {
+            "name":"Marathwada Salem-(Vasnt/Waigaon)",
+            "slug":"marathwada-salem-turmeric",
+            "image":"/images/products/Marathwada.png",
+            "gallery":[
+              "/images/products/Marathwada.png",
+              "/images/products/Marathwada1.png",
+              "/images/products/turmeric4.png"
+            ],
+            "shortDesc": "High-quality Marathwada Salem turmeric powder.",
+            "description": "## Marathwada Turmeric\n\n**Marathwada Turmeric** is sourced from the Marathwada region of Maharashtra, India, including Hingoli, Parbhani, Nanded, Latur, and Beed. This variety is known for its **stable quality**, **good colour strength**, and **competitive pricing**, making it highly suitable for **bulk trade**, **powder manufacturing**, and **industrial processing applications**.\n\nMarathwada turmeric is widely preferred by domestic and international buyers due to its **consistent supply**, **processing-friendly characteristics**, and availability across multiple producing districts.\n\n---\n\n### Specifications\n- **Botanical Name:** Curcuma longa L.\n- **HS Code:** 09103020\n- **Origin:** Marathwada region, Maharashtra, India\n- **Producing Districts:** Hingoli, Parbhani, Nanded, Latur, Beed\n- **Variety Type:** Commercial / Processing Grade\n\n### Product Forms\n- Whole Turmeric Fingers (Single / Double Polished)\n- Bulb Turmeric (Mother Rhizome)\n- Turmeric Powder (custom mesh as per requirement)\n\n### Physical Characteristics\n- **Finger Size & Appearance:** Medium to bold fingers, fairly uniform\n- **Colour:** Yellow to yellow-orange\n- **Aroma:** Mild to strong, characteristic turmeric aroma\n\n### Quality Parameters\n- **Curcumin Content:** Typically 2.0% – 3.5% (crop & lot dependent; lab tested on request)\n- **Moisture Content:** Max 10% – 12%\n- **Foreign Matter:** < 1.0%\n- **Broken Fingers:** As per buyer specification\n- **Admixture:** Nil\n- **Total Ash:** Max 9.0%\n- **Acid Insoluble Ash:** Max 1.5%\n\n### Shelf Life\n- **12 – 24 months** under cool and dry storage conditions"
+
+
+          },
+          {
+            "name":"Nizamabad Turmeric(Telengana Origin)",
+            "slug":"nizamabad-turmeric-telengana-origin",
+            "image":"/images/products/Niz.png",
+            "gallery":[
+              "/images/products/Niz.png",
+              "/images/products/Niz1.png",
+              "/images/products/Niz2.png"
+            ],
+            "shortDesc": "High-quality Nizamabad turmeric powder from Telangana.",
+            "description": "## Nizamabad Turmeric\n\n**Nizamabad Turmeric** originates from the Nizamabad district of Telangana, one of India’s oldest and most reputed turmeric-growing regions. Historically known as the **“Turmeric Bowl of India”**, this region is renowned for producing turmeric with **excellent colour value**, **good curcumin content**, and **strong acceptance in both domestic and export markets**.\n\nNizamabad turmeric is widely traded through regulated markets and is preferred by processors and exporters for its **balanced quality**, **stable availability**, and **competitive pricing**. It is commonly used in **bulk spice processing**, **powder manufacturing**, and **value-added turmeric products**.\n\n---\n\n### Specifications\n- **Botanical Name:** Curcuma longa L.\n- **HS Code:** 09103020\n- **Origin:** Nizamabad district, Telangana, India\n- **Variety Type:** Commercial / Processing Grade Turmeric\n\n### Product Forms\n- Whole Turmeric Fingers\n- Single Polished\n- Double Polished\n- Turmeric Powder (industrial & retail grades)\n\n### Physical Characteristics\n- **Finger Appearance:** Medium to bold fingers with slightly rough surface\n- **Colour:** Bright yellow to yellow-orange\n- **Aroma:** Strong, slightly pungent, earthy aroma\n\n### Quality Parameters\n- **Curcumin Content:** Typically 2.5% – 4.0% (lab tested on request)\n- **Moisture Content:** Max 10% – 12%\n- **Foreign Matter:** < 1%\n- **Broken Fingers:** As per buyer requirement\n- **Admixture:** Nil\n\n### Shelf Life\n- **12 – 24 months** under proper storage conditions"
+
+          },
           {
             "name":"Bulb Turmeric",
             "slug":"bulb-turmeric",
@@ -21,58 +64,24 @@
               "/images/products/bulb2.png"
             ],
             "shortDesc": "High-quality bulb turmeric powder.",
-            "description": "Aromaveda Bulb Turmeric is sourced from certified farms and processed with international quality standards. Known for its deep natural color, strong aroma, and elevated curcumin levels, it is widely preferred for food manufacturing, spice blending, and nutraceutical applications. Each batch is thoroughly cleaned, graded, and packed to ensure consistency, purity, and full export compliance for global markets."
+            "description": "## Bulb (Mother Rhizome) Turmeric\n\n**Bulb Turmeric**, also known as **Mother Rhizome Turmeric**, refers to the primary central rhizome of the turmeric plant from which finger rhizomes develop. Compared to finger turmeric, bulb turmeric is **larger, thicker, and heavier**, and is widely used in **industrial processing**, **powder manufacturing**, **extraction**, and **blending applications** due to its good colour yield and cost efficiency.\n\nBulb turmeric is commonly sourced from major turmeric-growing regions such as **Maharashtra**, **Telangana (Nizamabad)**, **Tamil Nadu**, and **Andhra Pradesh**, and is extensively traded in bulk for both domestic and export markets.\n\n---\n\n### Specifications\n- **Botanical Name:** Curcuma longa L.\n- **HS Code:** 09103020\n- **Product Type:** Mother Rhizome / Bulb Turmeric\n- **Origin:** India (Maharashtra / Telangana / Tamil Nadu – as per lot)\n\n### Product Forms\n- Whole Bulb Turmeric (Single / Double Polished)\n- Bulb Turmeric Powder (industrial grade)\n\n### Physical Characteristics\n- **Bulb Size & Appearance:** Large, round to oval rhizomes with dense and heavy structure; rough surface compared to fingers\n- **Colour:** Yellow to yellow-orange (lighter than finger turmeric)\n- **Aroma:** Mild to moderate, characteristic turmeric aroma\n\n### Quality Parameters\n- **Curcumin Content:** Typically 1.5% – 3.0% (varies by origin and crop)\n- **Moisture Content:** Max 10% – 12%\n- **Foreign Matter:** < 1%\n- **Broken Pieces:** As per buyer specification\n- **Admixture:** Nil\n\n### Shelf Life\n- **12 – 24 months** under proper storage conditions"
+
             
 
           },
-          {
-            "name":"Finger Turmeric",
-            "slug":"finger-turmeric",
-            "image":"/images/products/turmeric.png",
-            "gallery":[
-              "/images/products/turmeric1.png",
-              "/images/products/turmeric2.png",
-              "/images/products/turmeric3.png"
-            ],
-            "shortDesc": "Premium finger turmeric powder.",
-            "description": "Aromaveda Finger Turmeric is sourced from certified farms and processed with international quality standards. Known for its deep natural color, strong aroma, and elevated curcumin levels, it is widely preferred for food manufacturing, spice blending, and nutraceutical applications. Each batch is thoroughly cleaned, graded, and packed to ensure consistency, purity, and full export compliance for global markets."
-            
-          },
-          {
-            "name":"Japan Grade Turmeric",
-            "slug":"japan-grade-turmeric",
-            "image":"/images/products/japan.png",
-            "gallery":[
-              "/images/products/japan1.png",
-              "/images/products/japan-2.png",
-              "/images/products/japan-3.png"
-            ],
-            "shortDesc": "Top-tier Japan grade turmeric powder.",
-            "description": "Premium quality turmeric powder that meets Japan's stringent standards. Known for its vibrant color and high curcumin content, it is ideal for culinary and health applications."
-          },
-          {
-            "name":"European Grade Turmeric",
-            "slug":"european-grade-turmeric",
-            "image":"/images/products/europe.png",
-            "gallery":[
-              "/images/products/europe1.png",
-              "/images/products/europe2.png",
-              "/images/products/europe.png"
-            ],
-            "shortDesc": "High-standard European grade turmeric powder.",
-            "description": "Aromaveda European Grade Turmeric is sourced from certified farms and processed with international quality standards. Known for its deep natural color, strong aroma, and elevated curcumin levels, it is widely preferred for food manufacturing, spice blending, and nutraceutical applications. Each batch is thoroughly cleaned, graded, and packed to ensure consistency, purity, and full export compliance for global markets."
-          },
+          
           {
             "name": "Lakadong Turmeric",
             "slug": "lakadong-turmeric",
-            "image": "/images/products/laka.png",
+            "image": "/images/products/Laka4.png",
             "gallery": [
-              "/images/products/laka1.png",
+              "/images/products/Laka5.png",
               "/images/products/laka2.png",
               "/images/products/laka3.png"
             ],
-            "shortDesc": "Premium Lakadong turmeric powder from Meghalaya.",
-            "description": "Lakadong turmeric is renowned for its high curcumin content and vibrant color. Sourced from the hills of Meghalaya, this turmeric powder is perfect for culinary and medicinal uses. It is carefully processed to retain its natural properties and ensure top quality. "
+            "shortDesc": "Premium Lakadong turmeric chips and powder from Meghalaya.",
+            "description": "## Lakadong Turmeric\n\n**Lakadong Turmeric** originates from the Lakadong region of Meghalaya, India, and is globally recognized as one of the **highest curcumin–containing turmeric varieties**. Owing to its **exceptional medicinal value**, **intense natural colour**, and **limited cultivation area**, Lakadong turmeric is positioned as a **premium specialty product** for **nutraceutical**, **pharmaceutical**, and **wellness-focused markets**.\n\nLakadong turmeric is highly sought after by buyers requiring **high curcumin content**, **strict purity standards**, and **traceable origin**, making it ideal for value-added formulations and health-oriented applications.\n\n---\n\n### Specifications\n- **Botanical Name:** Curcuma longa L.\n- **HS Code:** 09103020\n- **Origin:** Lakadong region, Meghalaya, India\n- **Variety Type:** High-Curcumin / Specialty Grade Turmeric\n\n### Product Forms\n- Whole Turmeric Fingers (Single / Double Polished)\n- Turmeric Powder (fine & customized mesh)\n\n### Physical Characteristics\n- **Finger Size & Appearance:** Medium-sized fingers with compact and dense structure\n- **Colour:** Deep, bright yellow\n- **Aroma:** Strong, pungent, characteristic aroma\n\n### Quality Parameters\n- **Curcumin Content:** Typically 6.0% – 8.0% (lab-tested; COA available on request)\n- **Moisture Content:** Max 8% – 10%\n- **Foreign Matter:** < 0.5%\n- **Broken Fingers:** As per buyer specification\n- **Admixture:** Nil (100% pure turmeric)\n- **Total Ash:** Max 8.0%\n- **Acid Insoluble Ash:** Max 1.0%\n\n### Shelf Life\n- **12 – 24 months** under cool and dry storage conditions"
+
           }
         
         ]

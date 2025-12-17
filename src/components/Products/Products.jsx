@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import ProductDescription from "./ProductDescription";
 import "./Products.css";
 
 const Products = () => {
@@ -120,7 +121,10 @@ const Products = () => {
         <div className="product-detail">
           <div>
             <h2>{item.name}</h2>
-            <p>{item.description}</p>
+           <ProductDescription
+              description={item.description}
+              specifications={item.specifications}
+            />
 
             {item.specifications && (
               <ul className="specs">
