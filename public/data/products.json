@@ -94,24 +94,31 @@
         "image":"/images/products/spices4.png",
         "description":"Spicy and flavorful red chilli powder, ideal for adding heat to your dishes.",
         "items":[
-          {
-            "name": "Kashmiri",
-            "slug": "kashmiri-red-chilli",
-            "image": "/images/products/kashmiri.png",
+           {
+            "name": "Guntur Sannam S4",
+            "slug": "guntur-sannam-red-chilli",
+            "image": "/images/products/s4.png",
             "gallery": [
-              "/images/products/kashmiri1.png",
-              "/images/products/kashmiri2.png",
-              "/images/products/kashmiri3.png"
+              "/images/products/s4.png",
+              "/images/products/s4sannam.png"
+             
             ],
-            "description": "Mild heat with vibrant red color, perfect for enhancing dishes without overpowering them. ",
-            "specifications": {
-            "appearance": "Deep red to bright crimson, long and fleshy",
-            "pungency": "1,000 – 2,000 SHU",
-            "astaColor": "Approx. 54 ASTA",
-            "length": "5–10 cm (10–12 cm in some varieties)",
-            "capsaicin": "Approx. 0.325%",
-            "flavor": "Mild, slightly sweet and smoky"
-            }
+            "description": "\n**Aromaveda Guntur Sannam S4 Red Chili (Capsicum annuum)** is **hot and pungent**, widely used in **Indian cuisine** for its **strong, sharp flavor**. India is a leading producer of premium-quality red chili, known for its **bright red colour**, **consistent pungency**, and **high capsaicin content**.\n\nAromaveda’s red chili is carefully selected and processed to retain its **natural colour, heat, and aroma**, making it ideal for **spice blends, sauces, pickles, curry pastes, and processed foods**.\n\n---\n\n### Specifications\n- **Appearance:** Bright red, slender and pointed\n- **Pungency:** 35,000 – 50,000 SHU\n- **ASTA Colour:** Approx. 40–50 ASTA\n- **Length:** 8–12 cm\n- **Capsaicin:** Approx. 1.0%\n- **Flavour:** High heat with a sharp, pungent taste\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+
+            
+          },
+           {
+            "name": "S17 Teja",
+            "slug": "s17-teja-red-chilli",
+            "image": "/images/products/s17.png",
+            "gallery": [
+              "/images/products/s17teja.png",
+              "/images/products/s17.png"
+      
+            ],
+            "description":"\n**Aromaveda S17 Teja Red Chili (Capsicum annuum)** is **very hot and pungent**, ideal for those who prefer **intense heat in their dishes**. India is a leading producer of premium-quality super hot red chili, known for its **deep red colour**, **high capsaicin content**, and **consistent heat level**.\n\nAromaveda’s super hot red chili is carefully selected and processed to retain its **natural colour, pungency, and sharp flavour**, making it perfect for **spice blends, hot sauces, curries, pickles, and processed foods**.\n\n---\n\n### Specifications\n- **Appearance:** Deep red, long and thin\n- **Pungency:** 70,000 – 110,000 SHU\n- **ASTA Colour:** 50–70 ASTA\n- **Length:** 6–9 cm (without stem)\n- **Capsaicin:** Approx. 1.2%\n- **Flavour:** Very high heat with a sharp, biting taste\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+
+             
           },
           {
             "name": "Byadgi",
@@ -122,56 +129,25 @@
               "/images/products/byadgi2.png",
               "/images/products/byadgi3.png"
             ],
-            "description": "Moderate heat with deep red color, ideal for a variety of culinary uses.",
-            "specifications": {
-              "appearance": "Bright red, wrinkled and thick",
-              "pungency": "15,000 – 30,000 SHU",
-              "astaColor": "Approx. 72 ASTA",
-              "length": "7–10 cm",
-              "capsaicin": "Approx. 0.75%",
-              "flavor": "Moderate heat with earthy undertones"
-            }
+            "description":"\n**Aromaveda Byadgi Red Chili (Capsicum annuum)** offers **moderate heat with a deep red colour**, ideal for a variety of **culinary uses**. India is a leading producer of premium-quality Byadgi chili, known for its **bright red hue**, **mild-to-moderate pungency**, and **rich earthy flavour**.\n\nAromaveda’s Byadgi chili is carefully selected and processed to retain its **natural colour, flavour, and aroma**, making it perfect for **curries, spice blends, pickles, sauces, and processed foods**.\n\n---\n\n### Specifications\n- **Appearance:** Bright red, wrinkled and thick\n- **Pungency:** 15,000 – 30,000 SHU\n- **ASTA Colour:** Approx. 72 ASTA\n- **Length:** 7–10 cm\n- **Capsaicin:** Approx. 0.75%\n- **Flavour:** Moderate heat with earthy undertones\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+
             
           },
           {
-            "name": "Guntur Sannam S4",
-            "slug": "guntur-sannam-red-chilli",
-            "image": "/images/products/s4.png",
+            "name": "Kashmiri",
+            "slug": "kashmiri-red-chilli",
+            "image": "/images/products/kashmiri.png",
             "gallery": [
-              "/images/products/s4.png",
-              "/images/products/s4sannam.png"
-             
+              "/images/products/kashmiri1.png",
+              "/images/products/kashmiri2.png",
+              "/images/products/kashmiri3.png"
             ],
-            "description": "Hot and pungent, widely used in Indian cuisine for its strong flavor.",
-            "specifications": {
-              "appearance": "Bright red, slender and pointed",
-              "pungency": "35,000 – 50,000 SHU",
-              "astaColor": "Approx. 40-50 ASTA",
-              "length": "8–12 cm",
-              "capsaicin": "Approx. 1.0%",
-              "flavor": "High heat with a sharp, pungent taste"
-            }
-          },
-          {
-            "name": "S17 Teja",
-            "slug": "s17-teja-red-chilli",
-            "image": "/images/products/s17.png",
-            "gallery": [
-              "/images/products/s17teja.png",
-              "/images/products/s17.png"
-      
-            ],
-            "description": "Very hot and pungent, ideal for those who prefer intense heat in their dishes.",
-            "specifications": {
-              "appearance": "Deep red, long and thin",
-              "pungency": "70,000 – 110,000 SHU",
-              "astaColor": "50-70 ASTA",
-              "length": "6-9 cm(without stem)",
-              "capsaicin": "Approx. 1.2%",
-              "flavor": "Very high heat with a sharp, biting taste"
-            }
-             
+            "description":"\n**Aromaveda Kashmiri Red Chili (Capsicum annuum)** is known for its **mild heat and vibrant red colour**, making it a favorite for **cooking and culinary applications** that require colour without intense spiciness. India is a leading producer of premium-quality Kashmiri chili, prized for its **bright red hue**, **mild pungency**, and **distinct earthy-sweet flavour**.\n\nAromaveda’s Kashmiri chili is carefully selected and processed to retain its **natural colour, mild heat, and aromatic flavour**, making it ideal for **curries, tandoori dishes, spice blends, sauces, and processed foods**.\n\n---\n\n### Specifications\n- **Appearance:** Bright red, slender, slightly wrinkled\n- **Pungency:** 1,000 – 2,000 SHU\n- **ASTA Colour:** Approx. 70–80 ASTA\n- **Length:** 7–9 cm\n- **Capsaicin:** Approx. 0.2%\n- **Flavour:** Mild heat with earthy and slightly sweet notes\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+
           }
+          
+         
+         
         ]
       },
       {
@@ -190,8 +166,8 @@
               "/images/products/corianderp.png"
             ],
             "shortDesc": "Freshly ground coriander powder.",
-            "description": "Aromatic and fresh coriander powder, essential for various cuisines. It adds a warm, citrusy flavor to dishes and is rich in antioxidants. "
-            
+            "description":"\n**Aromaveda Coriander Powder (Coriandrum sativum)** is a **fragrant spice with a mild, citrusy flavour**, widely used in **spice blends, seasoning mixes, curries, and sauces**. India is a leading producer of premium-quality coriander seeds, known for their **superior essential oil content, bold aroma, and clean profile**. The ground coriander powder adds a **warm, nutty flavour** to culinary dishes worldwide.\n\nAromaveda’s coriander powder is made from seeds harvested in **Rajasthan and Madhya Pradesh**, carefully **machine-cleaned, polished, and milled** to meet **export standards**. Its **fine texture, uniform colour, and rich aroma** make it ideal for **food processing, spice blends, and ready-to-eat mixes**.\n\n---\n\n### Specifications\n- **Botanical Name:** Coriandrum sativum\n- **HS Code:** 09092000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light greenish-brown\n- **Texture:** Fine, free-flowing powder\n- **Flavour & Aroma:** Mild, citrusy, warm, nutty\n\n### Quality Parameters\n- **Mesh Size (Powder):** 70–100 mesh\n- **Moisture Content:** < 10%\n- **Volatile Oil:** 0.4–1.2%\n- **Total Ash:** < 7%\n- **Purity:** > 98%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+
           },
           {
             "name":"Coriander Seeds",
@@ -203,7 +179,8 @@
               "/images/products/coriander.png"
             ],
             "shortDesc": "Whole coriander seeds for grinding or cooking.",
-            "description": "Aromatic and fresh coriander seeds, essential for various cuisines. They add a warm, citrusy flavor to dishes and are rich in antioxidants."
+            "description":"\n**Aromaveda Coriander Seeds (Coriandrum sativum)** are **premium-quality, whole coriander seeds** with a **fragrant, mild citrusy aroma** and **warm, nutty flavour**. India is a leading producer of coriander seeds, known for their **high essential oil content, purity, and bold aroma**.\n\nAromaveda’s coriander seeds are harvested from **Rajasthan and Madhya Pradesh**, carefully **cleaned, polished, and sorted** to meet **export standards**. Their **uniform size, bright colour, and rich aroma** make them ideal for **spice blends, pickling, curry powders, seasoning mixes, and culinary preparations**.\n\n---\n\n### Specifications\n- **Botanical Name:** Coriandrum sativum\n- **HS Code:** 09092000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light brown to greenish-brown\n- **Shape & Size:** Round, uniform seeds, 3–5 mm in diameter\n- **Flavour & Aroma:** Mild, citrusy, warm, nutty\n\n### Quality Parameters\n- **Moisture Content:** < 10%\n- **Volatile Oil:** 0.4–1.2%\n- **Total Ash:** < 7%\n- **Purity:** > 98%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+
           }
         ]
       },
@@ -223,7 +200,8 @@
               "/images/products/cumin.png"
             ],
             "shortDesc": "Aromatic cumin seeds.",
-            "description": "Fragrant cumin seeds, perfect for enhancing the flavor of your dishes. They provide a warm, earthy taste and are known for their digestive benefits."
+            "description": "\n**Aromaveda Cumin Seeds (Cuminum cyminum)** are **premium-quality whole seeds** known for their **intense aroma, nutty flavour, and digestive benefits**. Sourced from **Gujarat and Rajasthan**, India is a leading producer of high-quality cumin, prized globally for its **rich essential oil content, purity, and consistent flavour**.\n\nAromaveda’s cumin seeds are carefully **cleaned, polished, and sorted** to meet **export standards**. Their **uniform size, bright brown colour, and aromatic profile** make them ideal for **spice blends, pickles, sauces, snacks, and culinary preparations**.\n\n---\n\n### Specifications\n- **Botanical Name:** Cuminum cyminum\n- **HS Code:** 09092010\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light to medium brown\n- **Shape & Size:** Elongated, uniform seeds, 3–5 mm\n- **Flavour & Aroma:** Intense, nutty, warm, aromatic\n\n### Quality Parameters\n- **Moisture Content:** < 10%\n- **Volatile Oil:** 1–2.5%\n- **Total Ash:** < 9%\n- **Purity:** > 98%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+
             
           },
           {
@@ -236,7 +214,8 @@
               "/images/products/cumin2.png"
             ],
             "shortDesc": "Finely ground cumin powder.",
-            "description": "Fragrant cumin powder, perfect for enhancing the flavor of your dishes. It provides a warm, earthy taste and is known for its digestive benefits."
+            "description": "\n**Aromaveda Cumin Powder (Cuminum cyminum)** is made from **premium-quality cumin seeds**, finely ground to retain their **intense aroma, nutty flavour, and digestive benefits**. Sourced from **Gujarat and Rajasthan**, the powder is widely used in **spice blends, ready-mix seasonings, sauces, gravies, and food processing industries**.\n\nAromaveda’s cumin powder is produced using **advanced hygienic milling techniques**, ensuring **uniform texture, rich aroma, and long shelf life**. Its **strong, characteristic flavour** makes it a preferred ingredient for both **home and industrial culinary applications**.\n\n---\n\n### Specifications\n- **Botanical Name:** Cuminum cyminum\n- **HS Code:** 09092010\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light to medium brown\n- **Texture:** Fine, free-flowing powder\n- **Flavour & Aroma:** Intense, nutty, warm, aromatic\n\n### Quality Parameters\n- **Mesh Size (Powder):** 70–100 mesh\n- **Moisture Content:** < 10%\n- **Volatile Oil:** 1–2.5%\n- **Total Ash:** < 9%\n- **Purity:** > 98%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+
           }
         ]
       },
@@ -256,8 +235,8 @@
               "/images/products/cardamon2.png"
             ],
             "shortDesc": "Aromatic green cardamom pods.",
-            "description": "Premium green cardamom pods, ideal for both sweet and savory dishes. They offer a unique, fragrant flavor and are often used in baking and cooking."
-            
+            "description": "\n**Aromaveda Cardamom Pods (Elettaria cardamomum)**, widely known as the **“Queen of Spices,”** are prized for their **sweet aroma, vibrant green colour, and rich flavour**. India is a leading producer of premium-quality cardamom, recognized globally for its **superior oil content, purity, and aromatic profile**.\n\nAromaveda’s cardamom pods are carefully **hand-picked, sorted, and graded** to meet **GCC and European market standards**. Their **uniform size, bright green colour, and intense fragrance** make them ideal for **bakery, confectionery, teas, beverages, culinary preparations, and perfumery applications**.\n\n---\n\n### Specifications\n- **Botanical Name:** Elettaria cardamomum\n- **HS Code:** 09083100\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Bright green\n- **Size:** 6 mm, 8 mm, 10 mm, 12 mm\n- **Flavour & Aroma:** Sweet, aromatic, highly fragrant\n\n### Quality Parameters\n- **Volatile Oil:** 4–8%\n- **Total Ash:** < 6%\n- **Defects:** Nil black seeds\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+
           },
           {
             "name":"Cardamom Powder",
@@ -269,7 +248,8 @@
               "/images/products/cardamomp.png"
             ],
             "shortDesc": "Finely ground cardamom powder.",
-            "description": "Premium cardamom powder, ideal for both sweet and savory dishes. It offers a unique, fragrant flavor and is often used in baking and cooking."
+            "description":"\n**Aromaveda Cardamom Powder (Elettaria cardamomum)** is made from **premium-quality green cardamom pods**, finely ground to retain their **sweet aroma, vibrant colour, and rich flavour**. India is a leading producer of cardamom, valued globally for its **superior oil content and purity**.\n\nAromaveda’s cardamom powder is processed using **advanced hygienic milling techniques**, ensuring **uniform fine texture, potent fragrance, and consistent flavour**. Its **intense aroma and sweet taste** make it ideal for **bakery, confectionery, teas, spice blends, desserts, and beverage applications**.\n\n---\n\n### Specifications\n- **Botanical Name:** Elettaria cardamomum\n- **HS Code:** 09083100\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light to bright green\n- **Texture:** Fine, free-flowing powder\n- **Flavour & Aroma:** Sweet, aromatic, highly fragrant\n\n### Quality Parameters\n- **Volatile Oil:** 4–8%\n- **Total Ash:** < 6%\n- **Defects:** Nil black seeds\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+
           }
         ]
 
@@ -277,139 +257,175 @@
     ]
   },
   {
-    "category":"Dehydrated Vegetables",
-    "slug":"dehydrated-vegetables",
-    "categoryImage": "/images/dehydrated/veg.png",
-    "categoryDesc": "High-quality dehydrated vegetables for culinary use.",
-    "products":[
-      {
-        "name":"Moringa",
-        "slug":"moringa",
-        "image":"/images/products/moringa.png",
-        "description":"Nutrient-rich dehydrated moringa leaves, perfect for smoothies and teas.",
-        "items":[
-          
-          {
-            "name":"Dehydrated Moringa Powder",
-            "slug":"dehydrated-moringa-powder",
-            "image":"/images/products/moringa.png",
-            "gallery":[
-              "/images/products/moringa1.png",
-              "/images/products/moringa-powder2.png",
-              "/images/products/moringa-powder3.png"
-            ],
-            "shortDesc": "Finely ground dehydrated moringa powder.",
-            "description": "Nutrient-rich dehydrated moringa powder, perfect for smoothies and teas. It is packed with vitamins, minerals, and antioxidants, making it a great addition to a healthy diet."
-          }
-        ]
-        
+  "category": "Dehydrated Vegetables",
+  "slug": "dehydrated-vegetables",
+  "categoryImage": "/images/dehydrated/veg.png",
+  "categoryDesc": "Premium-quality dehydrated vegetables processed for long shelf life, consistent flavour, and global culinary applications.",
+  "products": [
+    {
+      "name": "Moringa",
+      "slug": "moringa",
+      "image": "/images/products/moringa.png",
+      "description": "Nutrient-rich dehydrated moringa products ideal for nutraceutical, wellness, and functional food applications.",
+      "items": [
+        {
+          "name": "Dehydrated Moringa Powder",
+          "slug": "dehydrated-moringa-powder",
+          "image": "/images/products/moringa.png",
+          "gallery": [
+            "/images/products/moringa1.png",
+            "/images/products/moringa-powder2.png",
+            "/images/products/moringa-powder3.png"
+          ],
+          "shortDesc": "Finely milled dehydrated moringa powder.",
+          "description": "\n**Moringa (Moringa oleifera)**, widely known as the **“Miracle Tree,”** is valued globally for its exceptional nutritional and therapeutic properties. India is a leading producer of premium-quality moringa, recognized for its **deep green colour**, **high chlorophyll content**, and **rich antioxidant profile**.\n\nAromaveda’s moringa powder and leaves are processed using **low-temperature dehydration and hygienic milling techniques** to retain maximum nutrients, natural colour, and flavour. Due to its **high nutrient density**, **clean profile**, and **excellent blending compatibility**, moringa is extensively used in **nutraceuticals, dietary supplements, herbal teas, functional foods, and wellness beverages**.\n\n---\n\n### Specifications\n- **Botanical Name:** Moringa oleifera\n- **HS Code:** 12119029\n- **Origin:** India\n- **Variety Type:** Export / Nutraceutical Grade\n\n### Physical Characteristics\n- **Colour:** Deep green\n- **Texture:** Fine, free-flowing powder\n- **Flavour & Aroma:** Mild, earthy, herbal\n\n### Quality Parameters\n- **Mesh Size (Powder):** 80–100 mesh\n- **Moisture Content:** < 7%\n- **Total Ash:** < 8%\n- **Foreign Matter:** Nil\n- **Admixture:** Nil\n\n### Shelf Life\n- **24 months** under proper storage conditions"
+        }
+      ]
+    },
+    {
+      "name": "Onion",
+      "slug": "onion",
+      "image": "/images/dehydrated/onion.png",
+      "description": "Flavour-rich dehydrated onion products ideal for enhancing the taste and aroma of various culinary applications.",
+      "items": [
+        {
+          "name": "Dehydrated Onion Flakes and Powder",
+          "slug": "dehydrated-onion-flakes-and-powder",
+          "image": "/images/dehydrated/onion.png",
+          "gallery": [
+            "/images/products/onions.png",
+            "/images/dehydrated/onionf.png",
+            "/images/dehydrated/onionp1.png",
+            "/images/dehydrated/onionp.png"
+          ],
+          "shortDesc": "Flavour-rich dehydrated onion flakes and powder.",
+          "description":"\n**Aromaveda Dehydrated Red Onion (Allium cepa)** is sourced from **carefully selected red onions** known for their **strong aroma**, **rich flavour**, and **high pungency**. India is a leading producer of premium-quality red onions, recognized for their **deep red colour**, **robust flavour**, and **consistent quality**.\n\nAromaveda’s dehydrated red onion is processed using **advanced dehydration and hygienic techniques** to retain natural **colour, intensity, and taste**. Due to its **long shelf life**, **reduced storage requirements**, and **consistent flavour profile**, it is extensively used in **meat and poultry products, savoury snacks, sauces, curries, gravies, instant foods, and ready mixes**.\n\n---\n\n### Specifications\n- **Botanical Name:** Allium cepa\n- **HS Code:** 07031000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Deep red to purplish\n- **Texture:** Fine, uniform, free-flowing\n- **Flavour & Aroma:** Strong, pungent, characteristic onion\n\n### Quality Parameters\n- **Mesh Size:** 80–100 mesh (depending on form)\n- **Moisture Content:** < 5%\n- **Total Ash:** < 5%\n- **Acid Insoluble Ash:** < 0.5%\n- **Foreign Matter:** < 0.3%\n\n### Shelf Life\n- **18–24 months** under proper storage conditions"
 
-      }
-      ,{
-        "name":"Onion ",
-        "slug":"onion",
-        "image":"/images/dehydrated/onion.png",
-        "description":"Crispy and flavorful dehydrated onion flakes, perfect for soups and salads.",
-        "items":[
-          {
-            "name":"Dehydrated Onion Flakes and Powder",
-            "slug":"dehydrated-onion-flakes-and-powder",
-            "image":"/images/dehydrated/onion.png",
-            "gallery":[
-              "/images/products/onions.png",
-              "/images/dehydrated/onionf.png",
-              "/images/dehydrated/onionp1.png",
-              "/images/dehydrated/onionp.png"
-            ],
-            "shortDesc": "Crispy dehydrated onion flakes.",
-            "description": "Crispy and flavorful dehydrated onion flakes, perfect for soups and salads. They retain the natural taste of fresh onions and add a delightful crunch to dishes."
-            
-          },
-          {
-            "name":"Dehydrated White Onion Flakes and Powder",
-            "slug":"dehydrated-white-onion-flakes-and-powder",
-            "image":"/images/dehydrated/white.png",
-            "gallery":[
-              "/images/dehydrated/white1.png",
-              "/images/dehydrated/white2.png",
-              "/images/dehydrated/white3.png"
-            ],
-            "shortDesc": "Finely ground dehydrated onion powder.",
-            "description": " Crispy and flavorful dehydrated onion powder, perfect for soups and salads. It retains the natural taste of fresh onions and adds a delightful flavor to dishes. "
-          }
-        ]
-      },
-      {
-        "name":"Garlic",
-        "slug":"garlic",
-        "image":"/images/dehydrated/garlic.png",
-        "description":"Aromatic and savory dehydrated garlic flakes, ideal for seasoning various dishes.",
-        "items":[
-          {
-            "name":"Dehydrated Garlic Flakes",
-            "slug":"dehydrated-garlic-flakes",
-            "image":"/images/dehydrated/garlic.png",
-            "gallery":[
-              "/images/dehydrated/garlic1.png",
-              "/images/dehydrated/garlic2.png",
-              "/images/dehydrated/garlic.png"
-            ],
-            "shortDesc": "Aromatic dehydrated garlic flakes.",
-            "description": "Aromatic and savory dehydrated garlic flakes, ideal for seasoning various dishes. They provide a concentrated garlic flavor and are perfect for soups, sauces, and marinades."
-            
-          },
-          {
-            "name":"Dehydrated Garlic Powder",
-            "slug":"dehydrated-garlic-powder",
-            "image":"/images/dehydrated/garlicp.png",
-            "gallery":[
-              "/images/dehydrated/garlicp.png",
-              "/images/dehydrated/garlicp1.png",
-              "/images/dehydrated/garlicp2.png"
-            ],
-            "shortDesc": "Finely ground dehydrated garlic powder.",
-            "description": "Aromatic and savory dehydrated garlic powder, ideal for seasoning various dishes. It provides a concentrated garlic flavor and is perfect for soups, sauces, and marinades."
-          }
-        ]
-      }
 
-    ]
-  },
+        },
+        {
+          "name": "Dehydrated White Onion Flakes and Powder",
+          "slug": "dehydrated-white-onion-flakes-and-powder",
+          "image": "/images/dehydrated/white.png",
+          "gallery": [
+            "/images/dehydrated/white1.png",
+            "/images/dehydrated/white2.png",
+            "/images/dehydrated/white3.png"
+          ],
+          "shortDesc": "Mild-flavoured dehydrated white onion flakes and powder.",
+          "description":"\n**Aromaveda Dehydrated White Onion (Allium cepa var. cepa)** is sourced from **carefully selected white onions** known for their **mild aroma**, **sweet flavour**, and **low pungency**. India is a leading producer of premium-quality white onions, recognized for their **pale white colour**, **uniform texture**, and **clean taste**.\n\nAromaveda’s dehydrated white onion is processed using **advanced dehydration and hygienic techniques** to retain natural **colour, mild sweetness, and flavour**. Due to its **long shelf life**, **reduced storage requirements**, and **consistent quality**, it is extensively used in **soups, sauces, gravies, ready-to-eat mixes, snacks, and processed foods**.\n\n---\n\n### Specifications\n- **Botanical Name:** Allium cepa var. cepa\n- **HS Code:** 07031000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Pale white\n- **Texture:** Fine, uniform, free-flowing\n- **Flavour & Aroma:** Mild, sweet, characteristic onion\n\n### Quality Parameters\n- **Mesh Size:** 80–100 mesh (depending on form)\n- **Moisture Content:** < 5%\n- **Total Ash:** < 5%\n- **Acid Insoluble Ash:** < 0.5%\n- **Foreign Matter:** < 0.3%\n\n### Shelf Life\n- **18–24 months** under proper storage conditions"
+
+        }
+      ]
+    },
+    {
+      "name": "Garlic",
+      "slug": "garlic",
+      "image": "/images/dehydrated/garlic.png",
+      "description": "Premium dehydrated garlic products delivering strong aroma, rich flavour, and excellent shelf stability.",
+      "items": [
+        {
+          "name": "Dehydrated Garlic Flakes",
+          "slug": "dehydrated-garlic-flakes",
+          "image": "/images/dehydrated/garlic.png",
+          "gallery": [
+            "/images/dehydrated/garlic1.png",
+            "/images/dehydrated/garlic2.png",
+            "/images/dehydrated/garlic.png"
+          ],
+          "shortDesc": "Aromatic dehydrated garlic flakes.",
+          "description": "\n**Aromaveda Dehydrated Garlic (Allium sativum)** is made from **premium-grade fresh garlic bulbs**, carefully cleaned, sliced, and dehydrated to preserve its **natural taste, aroma, and health-promoting compounds**. India is a leading producer of high-quality garlic, recognized globally for its **purity**, **high allicin content**, and **absence of artificial additives**.\n\nAromaveda’s dehydrated garlic is processed using **advanced dehydration and hygienic techniques**, ensuring **long shelf life, consistent aroma, and superior solubility** compared to fresh garlic. Available in multiple convenient forms — **powder, flakes, minced, chopped, and kibbled** — it is widely used in **sauces, spice mixes, ready-to-eat products, and bulk food manufacturing**.\n\n---\n\n### Specifications\n- **Botanical Name:** Allium sativum\n- **HS Code:** 07032000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Creamy white to light yellow\n- **Texture:** Fine, free-flowing powder or uniform flakes\n- **Flavour & Aroma:** Strong, pungent, characteristic garlic\n\n### Quality Parameters\n- **Mesh Size:** 80–100 mesh (depending on form)\n- **Moisture Content:** < 6%\n- **Total Ash:** < 5%\n- **Acid Insoluble Ash:** < 0.5%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **18–24 months** under proper storage conditions"
+
+        },
+        {
+          "name": "Dehydrated Garlic Powder",
+          "slug": "dehydrated-garlic-powder",
+          "image": "/images/dehydrated/garlicp.png",
+          "gallery": [
+            "/images/dehydrated/garlicp.png",
+            "/images/dehydrated/garlicp1.png",
+            "/images/dehydrated/garlicp2.png"
+          ],
+          "shortDesc": "Finely ground dehydrated garlic powder.",
+          "description": "\n**Aromaveda Dehydrated Garlic Powder (Allium sativum)** is made from **premium-grade fresh garlic bulbs**, carefully cleaned, sliced, and dehydrated to produce a **fine, free-flowing powder** that retains the **natural taste, aroma, and health-promoting compounds** of fresh garlic. India is a leading producer of high-quality garlic, recognized globally for its **purity**, **high allicin content**, and **absence of artificial additives**.\n\nAromaveda’s dehydrated garlic powder is processed using **advanced dehydration and hygienic milling techniques**, ensuring **long shelf life, consistent aroma, and superior solubility**. Its **intense flavour and convenient powder form** make it ideal for use in **sauces, spice blends, ready-to-eat products, soups, gravies, and bulk food manufacturing**.\n\n---\n\n### Specifications\n- **Product Name:** Dehydrated Garlic Powder\n- **Botanical Name:** Allium sativum\n- **HS Code:** 07032000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Creamy white to light yellow\n- **Texture:** Fine, free-flowing powder\n- **Flavour & Aroma:** Strong, pungent, characteristic garlic\n\n### Quality Parameters\n- **Mesh Size (Powder):** 80–100 mesh\n- **Moisture Content:** < 6%\n- **Total Ash:** < 5%\n- **Acid Insoluble Ash:** < 0.5%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **18–24 months** under proper storage conditions"
+
+        }
+      ]
+    }
+  ]
+}
+,
   {
-    "category": "Spray Dried Fruits Products",
-    "slug":"spray-dried-fruits-products",
-    "categoryImage": "/images/products/sp.png",
-    "categoryDesc": "Delicious spray dried fruit powders for smoothies and baking.",
-    "products": [
-      {
-        "name":"Amla Powder",
-        "slug":"amla-powder",
-        "image":"/images/products/amla.png",
-        "gallery":[
-          "/images/products/amla.png",
-          "/images/products/amla1.png",
-          "/images/products/amla2.png"
-        ],
-        "shortDesc": "Nutritious spray dried amla powder.",
-        "description":"Nutritious spray dried amla powder, rich in vitamin C and antioxidants for health benefits."
-        
-        
-        
-      },
-      {
-        "name":"Apple Powder",
-        "slug":"apple-powder",
+  "category": "Spray Dried Fruits Products",
+  "slug": "spray-dried-fruits-products",
+  "categoryImage": "/images/products/sp.png",
+  "categoryDesc": "Delicious spray dried fruit powders for smoothies and baking.",
+  "products": [
+    {
+      "name": "Amla",
+      "slug": "amala",
+      "image": "/images/products/amala.png",
+      "description": "Nutritious spray dried amla powder, rich in vitamin C and antioxidants.",
+      "items": [
+        {
+          "name": "Amla Powder",
+          "slug": "amla-powder",
+          "image": "/images/products/amla.png",
+          "gallery": [
+            "/images/products/amla.png",
+            "/images/products/amla1.png",
+            "/images/products/amla2.png"
+          ],
+          "shortDesc": "Nutritious spray dried amla powder.",
+          "description": "\n**Aromaveda Dehydrated Amla (Phyllanthus emblica)** is a **nutrient-dense fruit product** renowned for its **exceptionally high vitamin C content, potent antioxidant properties, and numerous health benefits**. Sourced from premium-quality amla fruits, India is a leading producer of dehydrated amla, known for its **tart flavour, vibrant colour, and clean profile**.\n\nAromaveda’s dehydrated amla is available in **slices and fine powder**, both processed under **strict hygienic conditions** to retain **natural flavour, bright colour, and nutritional value**. The powder form is ideal for **nutraceuticals, dietary supplements, functional foods, beverages, and wellness products**, while the slices are perfect for **snacking and culinary applications**. Both forms offer **excellent solubility, extended shelf life, and consistent quality**, making them suitable for **global food and health industries seeking 100% natural fruit-based ingredients**.\n\n---\n\n### Specifications\n- **Botanical Name:** Phyllanthus emblica\n- **HS Code:** 08109090 (slices) / 11063000 (powder)\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light green to yellowish\n- **Texture:** Chewy slices / Fine, free-flowing powder\n- **Flavour & Aroma:** Tart, tangy, fruity\n\n### Quality Parameters\n- **Total Ash:** < 5%\n- **Vitamin C Content:** 400–600 mg/100g\n- **pH:** 2.5–3.5\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+        },
+        {
+          "name": "Amla Slices",
+          "slug": "amla-slices",
+          "image": "/images/products/amala.png",
+          "gallery": [
+            "/images/products/amala1.png",
+            "/images/products/amala2.png",
+            "/images/products/amala.png"
+          ],
+          "shortDesc": "Dehydrated amla slices.",
+          "description": "\n**Aromaveda Dehydrated Amla (Phyllanthus emblica)** is a **nutrient-dense fruit product** renowned for its **exceptionally high vitamin C content, potent antioxidant properties, and numerous health benefits**. Sourced from premium-quality amla fruits, India is a leading producer of dehydrated amla, known for its **tart flavour, vibrant colour, and clean profile**.\n\nAromaveda’s dehydrated amla is available in **slices and fine powder**, both processed under **strict hygienic conditions** to retain **natural flavour, bright colour, and nutritional value**. The powder form is ideal for **nutraceuticals, dietary supplements, functional foods, beverages, and wellness products**, while the slices are perfect for **snacking and culinary applications**. Both forms offer **excellent solubility, extended shelf life, and consistent quality**, making them suitable for **global food and health industries seeking 100% natural fruit-based ingredients**.\n\n---\n\n### Specifications\n- **Botanical Name:** Phyllanthus emblica\n- **HS Code:** 08109090 (slices) / 11063000 (powder)\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light green to yellowish\n- **Texture:** Chewy slices / Fine, free-flowing powder\n- **Flavour & Aroma:** Tart, tangy, fruity\n\n### Quality Parameters\n- **Total Ash:** < 5%\n- **Vitamin C Content:** 400–600 mg/100g\n- **pH:** 2.5–3.5\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "slug": "banana",
+      "image": "/images/products/bananamain.png",
+      "description": "Sweet and creamy spray dried banana powder, perfect for smoothies and baking.",
+      "items": [
+        {
+          "name": "Banana Powder",
+          "slug": "banana-powder",
+          "image": "/images/products/bananaP.png",
+          "gallery": [
+            "/images/products/bananaP1.png",
+            "/images/products/bananaP2.png",
+            "/images/products/bananaP3.png"
+          ],
+          "shortDesc": "Sweet and creamy spray dried banana powder.",
+          "description": "\n**Aromaveda Spray Dried Banana Powder (Musa spp.)** is made from **ripe, high-quality bananas**, carefully processed using **advanced spray drying techniques** to retain their **natural sweetness, creamy texture, and rich flavour**. India is a leading producer of premium-quality bananas, known for their **uniform ripeness, vibrant yellow colour, and excellent taste**.\n\nAromaveda’s banana powder is ideal for **smoothies, baked goods, desserts, confectionery, dairy products, and snack foods**, offering **excellent solubility, long shelf life, and consistent quality**. Its **natural sweetness and creamy texture** make it a preferred ingredient for both **home cooks and food manufacturers seeking 100% natural fruit-based powders**.\n\n---\n\n### Specifications\n- **Botanical Name:** Musa spp.\n- **HS Code:** 11062000\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Light yellow to creamy white\n- **Texture:** Fine, free-flowing powder\n- **Flavour & Aroma:** Sweet, creamy, characteristic banana\n\n### Quality Parameters\n- **Moisture Content:** < 3%\n- **Total Ash:** < 5%\n- **Sugar Content:** > 70%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
 
-        "image":"/images/products/apple.png",
-        "gallery":[
-          "/images/products/apple1.png",
-          "/images/products/apple2.png",
-          "/images/products/apple3.png"
-        ],
-        "shortDesc": "Delicious spray dried apple powder.",
-        "description":"Delicious spray dried apple powder, perfect for smoothies and baking with a natural fruity flavor."
-      }
-    ]
-
+        },
+        {
+          "name": "Banana Chips",
+          "slug": "banana-chips",
+          "image": "/images/products/banana.png",
+          "gallery": [
+            "/images/products/banana1.png",
+            "/images/products/banana2.png",
+            "/images/products/banana3.png"
+          ],
+          "shortDesc": "Crispy and delicious banana chips.",
+          "description": "\n**Aromaveda Banana Chips (Musa spp.)** are made from **ripe, high-quality bananas**, carefully sliced and fried to achieve a **crispy texture and rich flavour**. India is a leading producer of premium-quality bananas, known for their **uniform ripeness, vibrant yellow colour, and excellent taste**.\n\nAromaveda’s banana chips are perfect for **snacking, culinary applications, and as an ingredient in trail mixes and desserts**, offering **long shelf life, consistent quality, and delightful taste**. Their **natural sweetness and crunchy texture** make them a favorite among both **home consumers and food manufacturers seeking 100% natural fruit-based snacks**.\n\n---\n\n### Specifications\n- **Botanical Name:** Musa spp.\n- **HS Code:** 20089990\n- **Origin:** India\n- **Variety Type:** Export / Food Grade\n\n### Physical Characteristics\n- **Colour:** Golden yellow to light brown\n- **Texture:** Crispy, crunchy slices\n- **Flavour & Aroma:** Sweet, rich, characteristic banana\n\n### Quality Parameters\n- **Moisture Content:** < 5%\n- **Total Ash:** < 5%\n- **Oil Content:** < 15%\n- **Foreign Matter:** Nil\n\n### Shelf Life\n- **12–24 months** under proper storage conditions"
+        }
+      ]
+    }
+  ]
   }
 ]

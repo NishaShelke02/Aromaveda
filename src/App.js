@@ -10,6 +10,7 @@ import Products from "./components/Products/Products";
 import About from "./components/About/About";
 import Whatsapp from "./components/Whatsapp/Whatsapp";
 import Verify from "./components/Verify";
+import Facebook from "./components/Facebook";
 const Blogs = () => <div>Blogs Page</div>;
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
 
       <Footer />
       <Whatsapp />
+      <Facebook />
     </BrowserRouter>
   );
 }

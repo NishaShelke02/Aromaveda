@@ -1,0 +1,22 @@
+.facebook-float {
+  position: fixed;
+  bottom: 100px; /* Adjust vertical position */
+  right: 20px;   /* Distance from right */
+  background-color: #1877f2; /* Facebook blue */
+  color: white;
+  border-radius: 50%;
+  width: 60px;   /* Fixed width */
+  height: 60px;  /* Fixed height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* Soft shadow */
+  transition: transform 0.3s;
+}
+
+.facebook-float:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}

@@ -51,7 +51,7 @@ const slides = [
     cta: "Buy Now",
   },
   {
-    image: "/images/dehydrated/spray.png",
+    image: "/images/slider.png",
     title: "Spray Dried Powders",
     desc: "Top-grade spray dried powders for food & industrial use.",
     link: "/products/spray-dried",
@@ -61,6 +61,8 @@ const slides = [
 
 const Home = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
+
+  
 
   useEffect(() => {
     const interval = setInterval(

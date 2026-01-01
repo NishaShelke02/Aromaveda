@@ -1,104 +1,141 @@
 .product-description {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: "Segoe UI", sans-serif;
   line-height: 1.6;
-  color: #2c1810;
+  color: #3b2a1a;
+  background: linear-gradient(180deg, #fffaf4 0%, #fff3e6 100%);
+  padding: 2rem;
+  border-radius: 14px;
 }
 
+/* Markdown wrapper */
 .markdown-content {
   margin-bottom: 2.5rem;
+  line-height: 1.7;
+  font-size: 15px;
 }
 
+/* Headings */
 .markdown-content h1,
 .markdown-content h2,
 .markdown-content h3 {
-  color: #c8102e;
   margin-top: 2rem;
-  margin-bottom: 1rem;
+  padding: 14px 18px;
+  border-left: 6px solid #ff7a18;
+  border-radius: 10px;
+  background: linear-gradient(90deg, #fff1e0, #fff);
+  color: #000000;
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
+/* Optional icon before heading */
+.markdown-content h3::before {
+  content: "✔";
+  color: #ff7a18;
+  font-size: 18px;
+}
+
+/* Main title */
 .markdown-content h1 {
   font-size: 2rem;
-  border-bottom: 2px solid #a71c3d;
+  border-bottom: 2px solid #ff7a18;
   padding-bottom: 0.5rem;
 }
 
+/* Paragraph */
 .markdown-content p {
   margin-bottom: 1rem;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
+  color: #4e342e;
 }
 
+/* Highlighted text */
 .markdown-content strong {
-  color: #8b1a2b;
+  color: #090909;
 }
 
+/* Lists */
 .markdown-content ul,
 .markdown-content ol {
   margin: 1rem 0;
-  padding-left: 1.5rem;
+  padding-left: 1.2rem;
 }
 
 .markdown-content li {
   margin-bottom: 0.5rem;
+  position: relative;
 }
+
+/* Custom bullet */
+.markdown-content li::marker {
+  color: #ff7a18;
+}
+
+/* ---------------- SPECIFICATION CARD ---------------- */
 
 .spec-section {
-  background: linear-gradient(135deg, #fff5f5 0%, #ffebee 100%);
-  border: 2px solid #a71c3d;
-  border-radius: 12px;
+  background: linear-gradient(135deg, #fff1e0 0%, #ffe0c2 100%);
+  border: 2px solid #ff7a18;
+  border-radius: 16px;
   padding: 2rem;
   margin-top: 2rem;
-  box-shadow: 0 4px 15px rgba(200, 16, 46, 0.15);
+  box-shadow: 0 10px 30px rgba(255, 122, 24, 0.25);
 }
 
+/* Spec heading */
 .spec-section h3 {
-  color: #c8102e;
-  font-size: 1.5rem;
-  margin: 0 0 1.5rem 0;
+  color: #e65100;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
   font-weight: 700;
   text-align: center;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.1);
 }
 
+/* Spec list */
 .spec-section ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
+/* Spec item */
 .spec-section li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  padding: 1rem 1.2rem;
   margin-bottom: 0.75rem;
-  background: rgba(255, 255, 255, 0.8);
-  border-left: 4px solid #a71c3d;
-  border-radius: 0 8px 8px 0;
+  background: rgba(255, 255, 255, 0.9);
+  border-left: 4px solid #ff7a18;
+  border-radius: 0 10px 10px 0;
   transition: all 0.3s ease;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
 }
 
+/* Hover effect */
 .spec-section li:hover {
-  background: rgba(255, 255, 255, 0.95);
-  transform: translateX(5px);
-  border-left-color: #c8102e;
-  box-shadow: 0 4px 12px rgba(200, 16, 46, 0.25);
+  transform: translateX(6px);
+  background: #ffffff;
+  border-left-color: #e65100;
+  box-shadow: 0 8px 18px rgba(255, 122, 24, 0.35);
 }
 
+/* Spec key */
 .spec-section li span {
   font-weight: 600;
-  color: #8b1a2b;
+  color: #bf360c;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
+/* Arrow indicator */
 .spec-section li::after {
-  content: '→';
-  color: #c8102e;
+  content: "➜";
+  color: #ff7a18;
   font-weight: bold;
   margin-left: 1rem;
   opacity: 0;
@@ -109,18 +146,19 @@
   opacity: 1;
 }
 
-/* Responsive design */
+/* ---------------- RESPONSIVE ---------------- */
+
 @media (max-width: 768px) {
   .product-description {
-    padding: 1.5rem;
+    padding: 1.4rem;
   }
-  
+
   .spec-section li {
     flex-direction: column;
     align-items: flex-start;
-    gap: 0.5rem;
+    gap: 0.4rem;
   }
-  
+
   .spec-section li::after {
     display: none;
   }
